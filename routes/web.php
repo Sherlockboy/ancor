@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PagesController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [PagesController::class, 'dashboard'])->name('dashboard');
+Route::get('/transactions', [PagesController::class, 'transactions'])->name('transactions');
+Route::get('/users', [PagesController::class, 'users'])->name('users');
+Route::get('/user', [PagesController::class, 'user'])->name('user');
