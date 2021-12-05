@@ -70,7 +70,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-4.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Paul J. Friend</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Paul J. Friend</a>
                                         </td>
                                         <td>
                                             937-330-1634
@@ -106,7 +106,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-3.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Bryan J. Luellen</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Bryan J. Luellen</a>
                                         </td>
                                         <td>
                                             215-302-3376
@@ -141,7 +141,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-3.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Kathryn S.
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Kathryn S.
                                                 Collier</a>
                                         </td>
                                         <td>
@@ -177,7 +177,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-1.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Timothy Kauper</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Timothy Kauper</a>
                                         </td>
                                         <td>
                                             (216) 75 612 706
@@ -212,7 +212,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-5.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Zara Raws</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Zara Raws</a>
                                         </td>
                                         <td>
                                             (02) 75 150 655
@@ -247,7 +247,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-6.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Annette P.
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Annette P.
                                                 Kelsch</a>
                                         </td>
                                         <td>
@@ -283,7 +283,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-7.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Jenny C. Gero</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Jenny C. Gero</a>
                                         </td>
                                         <td>
                                             078 7173 9261
@@ -318,7 +318,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-8.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Edward Roseby</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Edward Roseby</a>
                                         </td>
                                         <td>
                                             078 6013 3854
@@ -353,7 +353,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-9.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Anna Ciantar</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Anna Ciantar</a>
                                         </td>
                                         <td>
                                             (216) 76 298 896
@@ -388,7 +388,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-10.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Dean Smithies</a>
+                                            <a href="j{{ route('user') }} class="text-body fw-semibold">Dean Smithies</a>
                                         </td>
                                         <td>
                                             077 6157 4248
@@ -423,7 +423,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-1.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Labeeb Ghali</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Labeeb Ghali</a>
                                         </td>
                                         <td>
                                             050 414 8778
@@ -458,7 +458,7 @@
                                         <td class="table-user">
                                             <img src="assets/images/users/avatar-2.jpg" alt="table-user"
                                                 class="me-2 rounded-circle">
-                                            <a href="javascript:void(0);" class="text-body fw-semibold">Rory Seekamp</a>
+                                            <a href="{{ route('user') }}" class="text-body fw-semibold">Rory Seekamp</a>
                                         </td>
                                         <td>
                                             078 5054 8877
